@@ -10,7 +10,7 @@ bot = commands.Bot(command_prefix='!')
 bot = commands.Bot(command_prefix='+')
 @bot.event
 async def on_ready():
-    print("Everything's all ready to go~\n--------------")
+    print("Everything's all ready to go~\n--------------")         # Чо это?
 
 #---------------------------------------------------------------------
 
