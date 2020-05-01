@@ -1,5 +1,5 @@
-# Тут работают самые глэчные глэки как мы
-# boop for my friend
+# Тут работают самые глэчные глэки как мы - KTo-9l
+# boop for my friend - Mugnika
 import discord
 import random as r
 from discord.ext import commands
